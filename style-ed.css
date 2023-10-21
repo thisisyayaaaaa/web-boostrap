@@ -1,0 +1,16 @@
+body{
+    min-height: 2000px;
+}
+.jumbotron{
+    padding-top: 6rem;
+    background-color: plum;
+}
+#Education{
+    background-color: plum;
+}
+#Award{
+    background-color: plum;
+}
+section{
+    padding-top: 6rem;
+}
